@@ -1,0 +1,13 @@
+{
+    "author" : ["Visne (Visne#6166)"],
+    "install_msg" : "Trickle down economics, made simple.",
+    "name" : "Redistribute",
+    "short" : "Redistribute wealth.",
+    "requirements" : [],
+    "description" : "Redistribute your wealth to the poors.",
+    "permissions" : [],
+    "tags" : ["Economy", "Fun"],
+    "min_python_version": [3, 8, 1],
+    "min_bot_version": "3.2.0",
+    "end_user_data_statement": "This cog doesnt store any user data."
+}
